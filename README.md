@@ -1,2 +1,6 @@
 # training_resources
-Plataformas para entrenar distintas habilidades de IT que voy encontrando.
+Les comparto un listado de distintas plataformas para formarse en habilidades de IT
+
+## Desarrollo
+
+[Jetbrains](https://www.jetbrains.com/academy/ "Jetbrains Academy")
